@@ -5,5 +5,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="AudioPlaybackConnector.vcxproj" />
+  <Project Path="AudioPlaybackConnector.vcxproj" Id="2daaabdd-2402-4023-bc3e-b6e93fad567b" />
 </Solution>
